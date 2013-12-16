@@ -1,0 +1,19 @@
+{
+  "name": "bling-css",
+  "version": "0.0.0",
+  "description": "Bloglovin CSS \"framework\"",
+  "main": "bling.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bloglovin <dev@bloglovin.com>",
+  "license": "MIT",
+  "dependencies": {
+    "rework": "~0.18.3",
+    "css-whitespace": "~1.1.0",
+    "rework-variant": "~0.2.2",
+    "styl": "~0.2.7",
+    "rework-importer": "~0.2.0",
+    "autoprefixer": "~0.8.20131104"
+  }
+}
